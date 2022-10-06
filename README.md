@@ -42,7 +42,7 @@ Hi. I'm karamatghous, a senior software engineer (+2 years) who likes to work wi
 
 <a href="https://www.atlassian.com/software/bamboo" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" alt="bamboo" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
-<a href="https://www.slack.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a>a
+<a href="https://www.slack.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a>
 
 
 #### Other
