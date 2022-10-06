@@ -1,16 +1,16 @@
 ### Hi Everyone 👋
 
-Hi. I'm Faisal, a senior software engineer (+4 years) who likes to work with JavaScript(Typescript)/CSS/HTML.
+Hi. I'm karamatghous, a senior software engineer (+4 years) who likes to work with JavaScript(Typescript)/CSS/HTML.
 
-<img align="right" alt="GIF" src="https://github.com/iqbalfaisal/iqbalfaisal/blob/main/code.gif?raw=true" width="400" height="256" />
+<img align="right" alt="GIF" src="https://github.com/karamatghous/karamatghous/blob/main/code.gif?raw=true" width="400" height="256" />
 
 - 🌱 I've been working as a Front-End Developer(React.js & React-Native).
 - 🌱 I'm currently focusing on open source contribution.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Software Engineering;
-- 📫 How to reach me: 7faisaliqbal@gmail.com
+- 📫 How to reach me: ghouskaramat46@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Dev motto: `First do it, then do it right, then do it better.`
+- ⚡ Dev motto: `Keep on doing.`
 
 ### Languages and Tools:
 
