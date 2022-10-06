@@ -49,7 +49,7 @@ Hi. I'm karamatghous, a senior software engineer (+2 years) who likes to work wi
 
 ![](https://img.shields.io/badge/CI/CD-Bitrise-informational?style=flat&logo=bitrise&logoColor=white&color=3bac3a)
 
-### Find me elsewhere 🌎
+### Find me elsewhere 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/karamatghous/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karamat-ghous/)
