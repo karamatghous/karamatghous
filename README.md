@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-Hi. I'm karamatghous, a senior software engineer (+4 years) who likes to work with JavaScript(Typescript)/CSS/HTML.
+Hi. I'm karamatghous, a senior software engineer (+2 years) who likes to work with JavaScript(Typescript)/CSS/HTML.
 
 <img align="right" alt="GIF" src="https://github.com/karamatghous/karamatghous/blob/main/code.gif?raw=true" width="400" height="256" />
 
@@ -51,6 +51,6 @@ Hi. I'm karamatghous, a senior software engineer (+4 years) who likes to work wi
 
 ### Find me elsewhere 🌎
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/iqbalfaisal/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/7faisaliqbal/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:7faisaliqbal@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/karamatghous/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karamat-ghous/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ghouskaramat46@gmail.com)
