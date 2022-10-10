@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-Hi. I'm karamatghous, a senior software engineer (+2 years) who likes to work with JavaScript(Typescript)/CSS/HTML
+Hi. I'm karamatghous, a senior software engineer (+2 years) who likes to work with JavaScript(Typescript)/CSS/HTML.
 
 <img align="right" alt="GIF" src="https://github.com/karamatghous/karamatghous/blob/main/code.gif?raw=true" width="400" height="256" />
 
