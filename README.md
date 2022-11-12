@@ -6,11 +6,11 @@ Hi. I'm karamatghous, a senior software engineer with +3 years of hands-on exper
 
 - 🌱 I've been working as a Front-End Developer(React.js & React-Native).
 - 🌱 I'm currently focusing on open source contribution.
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in Software Engineering;
-- 📫 How to reach me: ghouskaramat46@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Dev motto: `Keep on doing.`
+- 💬 Ask me about anything, I am happy to help.
+- ⚡️ Fun-Fact: I have a degree in Software Engineering.
+- 📫 How to reach me: ghouskaramat46@gmail.com.
+- 😄 Pronouns: He/His.
+- ⚡ Dev motto: `Keep on doing.
 
 ### Languages and Tools:
 
