@@ -10,7 +10,7 @@ Hi. I'm karamatghous, a senior software engineer with +3 years of hands-on exper
 - ⚡️ Fun-Fact: I have a degree in Software Engineering.
 - 📫 How to reach me: ghouskaramat46@gmail.com.
 - 😄 Pronouns: He/His.
-- ⚡ Dev motto: `Keep on doing.
+- ⚡ Dev motto: Keep on doing.
 
 ### Languages and Tools:
 
