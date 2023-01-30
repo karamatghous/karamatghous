@@ -4,7 +4,7 @@ Hi. I'm karamatghous, a senior software engineer with +3 years of hands-on exper
 
 <img align="right" alt="GIF" src="https://github.com/karamatghous/karamatghous/blob/main/code.gif?raw=true" width="400" height="256" />
 
-- 🌱 I've been working as a Front-End Developer(React.js & React-Native).
+- 🌱 I've been working as a Front-End Developer(React.js & React-Native)
 - 🌱 I'm currently focusing on open source contribution.
 - 💬 Ask me about anything, I am happy to help.
 - ⚡️ Fun-Fact: I have a degree in Software Engineering.
