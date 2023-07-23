@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-Hi. I'm karamatghous, a senior software engineer with +3 years of hands-on experience in building custom web and mobile applications.
+Hi. I'm karamatghous, a senior software engineer with 3+ years of hands-on experience in building custom web and mobile applications.
 
 <img align="right" alt="GIF" src="https://github.com/karamatghous/karamatghous/blob/main/code.gif?raw=true" width="400" height="256" />
 
