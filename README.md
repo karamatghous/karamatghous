@@ -1,13 +1,13 @@
 ### Hi Everyone 👋
 
-Hi. I'm karamatghous, a senior software engineer with 3+ years of hands-on experience in building custom web and mobile applications.
+Hi. I'm Karamatghous, a senior software engineer with around 4 years of hands-on experience in building custom web and mobile applications.
 
 <img align="right" alt="GIF" src="https://github.com/karamatghous/karamatghous/blob/main/code.gif?raw=true" width="400" height="256" />
 
 - 🌱 I've been working as a Front-End Developer(React.js & React-Native).
-- 🌱 I'm currently focusing on open source contribution.
+- 🌱 I'm currently focusing on open-source contributions.
 - 💬 Ask me about anything, I am happy to help.
-- ⚡️ Fun-Fact: I have a degree in Software Engineering.
+- ⚡️ Fact: I have a degree in Software Engineering.
 - 📫 How to reach me: ghouskaramat46@gmail.com.
 - 😄 Pronouns: He/His.
 - ⚡ Dev motto: Keep on doing something new.
