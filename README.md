@@ -10,7 +10,7 @@ Hi, I'm Karamat Ghous, a Senior Full-Stack Engineer with over 4+ years of hands-
 - ⚡️ Fact: I have a degree in Software Engineering.
 - 📫 How to reach me: ghouskaramat46@gmail.com.
 - 😄 Pronouns: He/His.
-- ⚡ Dev motto: Keep on doing something new.
+- ⚡ Dev motto: Keep on doing something new
 
 ### Languages and Tools:
 
