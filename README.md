@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-Hi, I'm Karamat Ghous, a Senior Full-Stack Engineer with over 4+ years of hands-on experience building custom web apps and mobile apps.
+Hi, I'm Karamat Ghous, a Senior Full-Stack Engineer with over 4+ years of hands-on experience building Custom Web Apps and mobile apps.
 
 <img align="right" alt="GIF" src="https://github.com/karamatghous/karamatghous/blob/main/code.gif?raw=true" width="400" height="256" />
 
